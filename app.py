@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw
 import numpy as np
 
 # Streamlit UI の設定
-st.title("🚀 物体検出アプリ（Hugging Face Transformers）")
+st.title("🚀 物体検出 with RT-DETR v2")
 st.write("アップロードした画像から物体を検出します")
 
 # 物体検出モデルの設定（Hugging Face Transformers）

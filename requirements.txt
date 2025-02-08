@@ -1,5 +1,4 @@
-streamlit 
-transformers 
+streamlit
 pillow
 git+https://github.com/huggingface/transformers.git
 torch
