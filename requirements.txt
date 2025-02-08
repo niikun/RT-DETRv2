@@ -1,0 +1,7 @@
+streamlit 
+transformers 
+pillow
+git+https://github.com/huggingface/transformers.git
+torch
+torchvision
+numpy==1.*
